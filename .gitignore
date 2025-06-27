@@ -1,0 +1,13 @@
+# Compiled files
+*.o
+sha256
+
+# Test output files
+actual_*.txt
+expected_*.txt
+
+# Editor and system files
+.DS_Store
+*.swp
+*~
+.claude/
