@@ -57,6 +57,12 @@ Test 3 ('hello world'): PASS
 Test 4 ('The quick brown fox jumps over the lazy dog'): PASS
 ```
 
+## Video Demonstration
+
+![SHA-256 Assembly Implementation Demo](ClaudeCode_SHA256_ASM.mp4)
+
+The video above shows the entire process of Claude Opus 4 creating this SHA-256 implementation in assembly language from scratch.
+
 ## How It Works
 
 1. **Message Processing**: The assembly code processes input in 512-bit (64-byte) blocks
