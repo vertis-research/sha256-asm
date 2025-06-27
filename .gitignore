@@ -1,6 +1,7 @@
 # Compiled files
 *.o
 sha256
+sha256_pure
 
 # Test output files
 actual_*.txt
